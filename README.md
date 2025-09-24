@@ -2,6 +2,8 @@
 
 A very simple Unity project based on the [Catlike Coding tutorial](https://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/)
 
+![GIF](Assets/clock.gif)
+
 ## Features
 - Project is used to demonstrate some of the Unity's basic concepts:
   - GameObjects and Transforms
